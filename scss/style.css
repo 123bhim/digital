@@ -1,0 +1,213 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar {
+  padding: 0 !important;
+}
+
+.navbar-brand {
+  padding: 15px 0;
+}
+.navbar-brand img {
+  width: 80%;
+}
+
+.borderl {
+  border-left: 0.5px solid #ccc;
+}
+
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  color: #000;
+}
+
+.btn-primary {
+  background: #f15a23;
+  padding: 10 15px;
+  text-align: center;
+  color: #fff !important;
+  border: none;
+}
+.btn-primary:hover {
+  background: #6f5b9e;
+}
+.btn-primary .fa-user {
+  padding-right: 5px;
+}
+
+.content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+}
+.content h5 {
+  font-size: 24px;
+}
+.content h2 {
+  font-size: 36px;
+}
+
+.banner {
+  background: url(https://www.ditsolution.com.np/wp-content/uploads/2017/10/banner-1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 80vh;
+}
+
+.view {
+  padding-top: 30px;
+  background: #6f5b9e;
+  color: #fff;
+}
+.view p {
+  font-size: 18px;
+}
+.view .btn2 {
+  background: #6f5b9e;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: none !important;
+  padding: 10px 15px;
+  margin-left: 30px;
+}
+.view .btn2:hover {
+  background: #fff;
+  color: #6f5b9e;
+}
+
+.title {
+  color: #b1b1be;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.about {
+  padding-top: 100px;
+}
+.about p {
+  text-align: center;
+  padding: 10px 300px;
+}
+.about p span {
+  color: #6f5b9e;
+  font-weight: bold;
+}
+
+.services {
+  padding-top: 100px;
+}
+.services h6 {
+  color: #6f5b9e;
+  font-size: 18px;
+  font-weight: bold;
+}
+.services a {
+  text-decoration: none;
+}
+.services .rservice {
+  padding-top: 40px;
+}
+.services p {
+  color: #7a7a7a;
+}
+
+.btn3 {
+  border: 2px solid #6f5b9e;
+  color: #6f5b9e;
+  margin-left: 50%;
+  margin-top: 60px;
+  border-radius: 0 !important;
+}
+.btn3:hover {
+  background: #f15a23;
+  color: #fff;
+  border: none;
+}
+
+.footer {
+  background: #2d313d;
+  margin-top: 80px;
+  padding: 50px 0;
+}
+.footer p {
+  color: #fff;
+}
+.footer h6 {
+  color: #fff;
+}
+
+.footerright {
+  text-align: left;
+  color: #fff;
+}
+.footerright span {
+  font-weight: 400;
+  font-size: 24px;
+}
+.footerright .fa-envelope-o {
+  font-size: 24px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  padding: 10px;
+}
+.footerright .fa-envelope-o:hover {
+  background: #fff;
+  color: #000;
+}
+.footerright p {
+  color: #6E6E6E;
+  padding-top: 30px;
+}
+
+.obj {
+  width: 70px;
+  height: 90px;
+}
+
+.course h6 {
+  color: #6f5b9e;
+}
+.course a {
+  text-decoration: none;
+}
+.course p {
+  color: #6E6E6E;
+}
+
+.rcourse {
+  margin: 50px 0;
+}
+
+.testimonials {
+  background: #ececec;
+  margin: 80px 0;
+  padding: 50px 0;
+}
+.testimonials p {
+  text-align: left;
+}
+
+.coltest {
+  padding: 15px;
+  margin: 15px 0;
+}
+.coltest img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #6f5b9e;
+}
+.coltest .fa-twitter {
+  color: #4e14d5;
+  padding-right: 5px;
+}/*# sourceMappingURL=style.css.map */
